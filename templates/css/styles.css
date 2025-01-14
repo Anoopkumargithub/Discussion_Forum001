@@ -1,3 +1,6 @@
+:root{
+    background-color: #000;
+}
 .body{
     font-family: Arial, sans-serif;
     margin: 0;
@@ -7,7 +10,7 @@
     display: flex;
     justify-content: space-between;
     padding: 1rem;
-    background-color: #00000069;
+    background-color: #84808069;
 }
 .search-container {
     display: flex;
