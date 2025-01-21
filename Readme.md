@@ -14,7 +14,7 @@ To create a fully functional and responsive discussion forum application with a 
 2. Enable navigation between forum topics, posts, and detailed discussions.
 3. Implement responsive design to enhance usability across various devices.
 4. Provide functionality for users to search and navigate posts with ease.
-5. Lay the foundation for future backend integration.
+5. Lay the foundation for the future backend integration.
 
 ---
 
